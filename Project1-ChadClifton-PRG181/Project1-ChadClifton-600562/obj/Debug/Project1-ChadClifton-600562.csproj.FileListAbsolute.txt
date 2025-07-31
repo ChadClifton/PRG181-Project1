@@ -1,0 +1,8 @@
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\bin\Debug\Project1-ChadClifton-600562.exe.config
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\bin\Debug\Project1-ChadClifton-600562.exe
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\bin\Debug\Project1-ChadClifton-600562.pdb
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\obj\Debug\Project1-ChadClifton-600562.csproj.AssemblyReference.cache
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\obj\Debug\Project1-ChadClifton-600562.csproj.SuggestedBindingRedirects.cache
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\obj\Debug\Project1-ChadClifton-600562.csproj.CoreCompileInputs.cache
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\obj\Debug\Project1-ChadClifton-600562.exe
+E:\Uni\Programming 182\Assignemnts\Project 1\Project1-ChadClifton-600562\Project1-ChadClifton-600562\obj\Debug\Project1-ChadClifton-600562.pdb
